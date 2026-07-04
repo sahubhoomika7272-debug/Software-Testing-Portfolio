@@ -1,0 +1,44 @@
+
+## 🔍 Testing Types Implemented
+- ✅ Functional Testing
+- ✅ Regression Testing  
+- ✅ Smoke Testing
+- ✅ Sanity Testing
+- ✅ Integration Testing
+- ✅ UI/UX Testing
+- ✅ Boundary Value Testing
+- ✅ Negative Testing
+
+## 📊 Test Coverage
+| Module | Test Cases | Priority P1 | Priority P2 | Priority P3 |
+|--------|------------|-------------|-------------|-------------|
+| Login | 15 | 5 | 7 | 3 |
+| Registration | 12 | 4 | 5 | 3 |
+| Product Search | 10 | 3 | 4 | 3 |
+| Cart | 8 | 3 | 3 | 2 |
+| Checkout | 10 | 4 | 4 | 2 |
+| Payment | 8 | 4 | 3 | 1 |
+| **Total** | **63** | **23** | **26** | **14** |
+
+## 🛠️ Tools Used
+- Microsoft Excel for test case management
+- JIRA for bug tracking
+- Google Sheets for collaboration
+- Screenshot tools for evidence
+
+## 📝 Test Deliverables
+1. **Test Plan**: Strategy, scope, resources, and schedule
+2. **Test Cases**: Step-by-step test scenarios with expected results
+3. **Bug Reports**: Detailed bug documentation with reproduction steps
+4. **Test Reports**: Execution results and defect summary
+5. **Test Data**: Valid and invalid test data sets
+
+## 🚀 Getting Started
+1. Review the Test Plan in `Test-Plans/` folder
+2. Execute test cases from `Test-Cases/` folder
+3. Log any defects using the template in `Bug-Reports/`
+4. Update test execution status in `Test-Reports/`
+
+## 📧 Contact
+- Email: sahubhoomika7272@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bhoomika-sahu-467ba4255/
